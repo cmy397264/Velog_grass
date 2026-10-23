@@ -17,7 +17,6 @@
 <text x="24" y="67" font-size="10" fill="#57606a" text-anchor="end">월</text>
 <text x="24" y="95" font-size="10" fill="#57606a" text-anchor="end">수</text>
 <text x="24" y="123" font-size="10" fill="#57606a" text-anchor="end">금</text>
-<rect x="32" y="114" width="11" height="11" rx="2" fill="#ebedf0"><title>2025-10-24 · 0개</title></rect>
 <rect x="32" y="128" width="11" height="11" rx="2" fill="#ebedf0"><title>2025-10-25 · 0개</title></rect>
 <rect x="46" y="44" width="11" height="11" rx="2" fill="#ebedf0"><title>2025-10-26 · 0개</title></rect>
 <rect x="46" y="58" width="11" height="11" rx="2" fill="#ebedf0"><title>2025-10-27 · 0개</title></rect>
@@ -382,6 +381,7 @@
 <rect x="760" y="86" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-10-21 · 0개</title></rect>
 <rect x="760" y="100" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-10-22 · 0개</title></rect>
 <rect x="760" y="114" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-10-23 · 0개</title></rect>
+<rect x="760" y="128" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-10-24 · 0개</title></rect>
 <text x="648" y="159" font-size="10" fill="#57606a">적음</text>
 <rect x="676" y="150" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="690" y="150" width="11" height="11" rx="2" fill="#9be9a8"/>
